@@ -1787,16 +1787,6 @@
    },
    {
       "payload":{
-         "customer_id":"2180661477446",
-         "customer_email":"michael.ripley@astrazeneca.com",
-         "fields":{
-            "has_bought_50ml":1
-         }
-      },
-      "toBeUpdated":true
-   },
-   {
-      "payload":{
          "customer_id":"3355973976129",
          "customer_email":"david.r.h.rice@hotmail.co.uk",
          "fields":{
